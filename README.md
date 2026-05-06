@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Vinod Singh Rawat
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on projects related to DS 
+- 🌱 I’m currently learning Full Stack Development.
 - 📫 How to reach me rawatvinodsingh60@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing
